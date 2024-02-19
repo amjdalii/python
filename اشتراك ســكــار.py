@@ -694,7 +694,7 @@ import datetime
 
 
 
-import datetime;now = datetime.date.today();target = datetime.date(2024,4,10)
+import datetime;now = datetime.date.today();target = datetime.date(2025,4,10)
 
 
 
@@ -728,7 +728,7 @@ print(f'\033[1;31m{lo}')
 
 
 
-na = webbrowser.open ('https://t.me/A_KA_AA')
+na = webbrowser.open ('@MMY6R')
 
 
 
